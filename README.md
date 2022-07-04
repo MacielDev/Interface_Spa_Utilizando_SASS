@@ -8,4 +8,6 @@
     <li>Criação e utilização de variáveis<li>
     <li>Aninhamento de estilos<li>
     <li>Criação e utilização de mixins<li>
-<ul>
+</ul>
+
+<h2>Cada linha de código que desenvolvo, me aproxima ainda mais de minhas vitórias - Um passo de cada vez , sem pressa</h2>
