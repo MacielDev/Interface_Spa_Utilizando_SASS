@@ -1,5 +1,5 @@
 <h1>Projeto Spa - Utilizando SASS<h1>
-<img src="./imagemSASS.png">
+<img src="./imagemSASS" style="width:100%">
 <p>Com a intenção de aprofundar meus conhecimentos e trabalhar com ferramentas que possibilitem maior produtividade e qualidade dos meus projetos, iniciei meus estudos com o SASS.</p>
 <p> Os pré-processadores nos auxiliam provendo funcionalidade que até então não possuiamos com o uso do CSS nativo (aquele que os browsers conseguem entender). Nesse sentido com o desenvolvimento desse projeto aplicarei:</p>
 
