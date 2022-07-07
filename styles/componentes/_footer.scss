@@ -16,24 +16,28 @@ footer {
         color: red;
     }
 }
-
-.sobre-bem-estar {
-    color: $cor-primaria;
-    font-weight:300;
-    text-align: center;
-    h3{
-        font-size:$tamanho-do-texto /1.5;
-        margin-top:25px;
-        margin-bottom:20px;
+.sobre{
+    display:flex;
+    align-items:center;
+    padding: 2.5em;
+    .sobre-bem-estar {
+        color: $cor-primaria;
+        font-weight:300;
+        text-align: center;
+        h3{
+            font-size:$tamanho-do-texto /1.5;
+            margin-top:25px;
+            margin-bottom:20px;
+        }
+        h4{
+            font-size:$tamanho-do-texto /2.5;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: $tamanho-do-texto / 3;
+                    color: $cor-primaria;
+                    line-height: 1.5rem;
+        }
+    
     }
-    h4{
-        font-size:$tamanho-do-texto /2.5;
-        margin-bottom: 10px;
-    }
-    p {
-        font-size: $tamanho-do-texto / 3;
-                color: $cor-primaria;
-                line-height: 1.5rem;
-    }
-
 }

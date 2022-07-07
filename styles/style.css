@@ -154,21 +154,26 @@ footer i {
   color: red;
 }
 
-.sobre-bem-estar {
+.sobre {
+  display: flex;
+  align-items: center;
+  padding: 2.5em;
+}
+.sobre .sobre-bem-estar {
   color: #495371;
   font-weight: 300;
   text-align: center;
 }
-.sobre-bem-estar h3 {
+.sobre .sobre-bem-estar h3 {
   font-size: 2rem;
   margin-top: 25px;
   margin-bottom: 20px;
 }
-.sobre-bem-estar h4 {
+.sobre .sobre-bem-estar h4 {
   font-size: 1.2rem;
   margin-bottom: 10px;
 }
-.sobre-bem-estar p {
+.sobre .sobre-bem-estar p {
   font-size: 1rem;
   color: #495371;
   line-height: 1.5rem;
