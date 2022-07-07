@@ -100,4 +100,76 @@ nav ul li a:hover {
 #cupom .texto h2 {
   margin: 2rem;
   font-size: 1.7647058824rem;
+}
+#cupom .input {
+  margin: 0 auto;
+  width: 575px;
+  border-radius: 20px;
+  border: 4px solid white;
+  background: white;
+}
+#cupom .input input {
+  border-radius: 20px;
+  height: 40px;
+  border: none;
+  width: 540px;
+  outline: none;
+  text-align: center;
+  font-size: 26px;
+}
+#cupom .input:hover, #cupom .input:focus-within {
+  box-shadow: 1px 1px 8px 1px #495371;
+  outline: none;
+}
+#cupom button {
+  text-transform: uppercase;
+  margin: 0.75rem;
+  outline: none;
+  text-align: center;
+  width: 130px;
+  background: #495371;
+  color: #74959A;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: bold;
+  border: 2px #495371;
+  border-radius: 40px;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+#cupom button:hover {
+  color: #495371;
+  background: #74959A;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #495371;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(to left, #495371, #74959A, #F1E0AC);
+}
+footer i {
+  color: red;
+}
+
+.sobre-bem-estar {
+  color: #495371;
+  font-weight: 300;
+  text-align: center;
+}
+.sobre-bem-estar h3 {
+  font-size: 2rem;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+.sobre-bem-estar h4 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+.sobre-bem-estar p {
+  font-size: 1rem;
+  color: #495371;
+  line-height: 1.5rem;
 }/*# sourceMappingURL=style.css.map */
